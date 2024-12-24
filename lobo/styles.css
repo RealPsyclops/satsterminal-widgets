@@ -51,6 +51,9 @@
           iframe {
               display: block;
               border-radius: 16px;
+              border-style: solid;
+              border-width: 1px;
+              border-color: #ffffff
           }
 
           @media (max-width: 500px) {
